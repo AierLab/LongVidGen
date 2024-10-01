@@ -1,2 +1,2 @@
 # LongVidGen
-TODO
+Inspired by RAG
